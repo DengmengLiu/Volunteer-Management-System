@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "unixUd6xPDc=",
+  "dgSpecHash": "ZFMIMww+NAw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\program.csproj",
+  "projectFilePath": "C:\\Projects\\Volunteer-Management-System\\program\\program\\program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liude\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\liude\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\program.csproj": {}
+    "C:\\Projects\\Volunteer-Management-System\\program\\program\\program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\program.csproj": {
+    "C:\\Projects\\Volunteer-Management-System\\program\\program\\program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\program.csproj",
+        "projectUniqueName": "C:\\Projects\\Volunteer-Management-System\\program\\program\\program.csproj",
         "projectName": "program",
-        "projectPath": "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\program.csproj",
+        "projectPath": "C:\\Projects\\Volunteer-Management-System\\program\\program\\program.csproj",
         "packagesPath": "C:\\Users\\liude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liude\\OneDrive\\桌面\\Wednesday6pmGroup00_Ass2\\program\\program\\obj\\",
+        "outputPath": "C:\\Projects\\Volunteer-Management-System\\program\\program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

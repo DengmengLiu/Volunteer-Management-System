@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = program
-build_property.ProjectDir = C:\Users\liude\OneDrive\桌面\Wednesday6pmGroup00_Ass2\program\program\
+build_property.ProjectDir = C:\Projects\Volunteer-Management-System\program\program\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
